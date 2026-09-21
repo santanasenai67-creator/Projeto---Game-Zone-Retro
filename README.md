@@ -17,8 +17,8 @@ Zelda	NES	R$ 120,00
 HTML5
  Arquivos do projeto
 Game_Zone.html
-assets/
-└── retro.jpg
+assets
+ retro.jpg
  Como executar
 Baixe o projeto.
 Abra o arquivo Game_Zone.html.
